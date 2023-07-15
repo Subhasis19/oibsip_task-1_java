@@ -1,5 +1,4 @@
 //program for Train reservation system
-// sajhhdhcu
 import java.util.Scanner;
 class Res {
     String login_id = "Subhasis"; //consider login id
